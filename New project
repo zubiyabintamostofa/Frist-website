@@ -1,0 +1,47 @@
+<h1>Jamalpur</h1>
+<strong>Jamalpur</strong> is my distric.I love this place.
+There are some interesting place to visite.Ashek Mahmud college is also another interesting place.
+<h2>Jamalpur Historical place picture</h2>
+<img src="IMG_20200525_210752.jpg">
+<img src="IMG_20200525_211612.jpg">
+<img src="Jamalpur_Zamindarbari_Jame_Mosque.jpg">
+<img src="model-mosque-1624111942707.jpeg">
+
+<ol><b><h2>There are the thana of Jamalpur</h2></b>
+    <li>Madergonj</li>
+    <li>Melandoho</li>
+    <li>Dewangong</li>
+    <li>Islampur</li>
+    <li>Sorishabari</li>
+    <li>Bokshigong</li>
+</ol>
+<title>Jamlpur Website</title>
+<link favicon="shortcut icon" href="p120916oto.jpg" type="image/x-icon">
+
+<a href="https://travelvibe.net/top-tourist-places-to-visit-in-jamalpur/">this is the link of tourist place</a>
+<p>Differnet type of HTML Input Types</p>
+<form action="">
+    <input type="button"><br>
+<input type="checkbox"><br>
+<input type="color"><br>
+<input type="date"><br>
+<input type="datetime-local"><br>
+<input type="email"><br>
+<input type="file"><br>
+<input type="hidden"><br>
+<input type="image"><br>
+<input type="month"><br>
+<input type="number"><br>
+<input type="password"><br>
+<input type="radio">
+<input type="range">
+<input type="reset">
+<input type="search">
+<input type="submit"><br>
+<input type="tel">
+<input type="text">
+<input type="time">
+<input type="url">
+<input type="week">
+</form>
+
